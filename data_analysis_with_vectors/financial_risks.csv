@@ -1,4 +1,4 @@
-TaxPayer,Postcode,Contact,Cash,CRS,FATCA,Foreign_Remit,Deductor,Stock_Exchange,FIU
+TaxPayer,Postcode,Contact,Cash,CRS,FATCA,Forn_Rem,Deductor,Stock,FIU
 Abhishek,2,1,2,0,1,2,1,2,2
 Ahmad,2,2,1,0,0,2,2,0,0
 Alap,3,2,2,0,0,3,1,1,2
